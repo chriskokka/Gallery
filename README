@@ -1,0 +1,21 @@
+Gallery
+
+
+This is a modified version of Zenphoto photo gallery. 
+It comes with a custom theme and added feature:
+a possibility to send your info: name and email and 
+a request about the wish to buy the picture that the
+owner of the gallery has put up. Email with your email
+address and name with picture info will be sent automatically
+from the site to the owner of the gallery.
+
+Zenphoto itself is written in PHP and uses a MySql or MySqli 
+database also, with front-end written in HTML/CSS and jQuery.
+I have used Twitter Bootstrap for the UI and a jQuery image
+gallery for better image display.
+
+I have added only the theme folder that you need to put to your 
+zenphoto directory. The php file: functions.php has to be put
+under: /zenphoto/zp-core/
+
+Author: Chris Kokka 2013
